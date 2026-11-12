@@ -1,6 +1,10 @@
-# Neuro Detec
+# Neuro-Detec
+### Sistema de Avaliação Médica por Imagem Cerebral com Inteligência Artificial
 
-## Sistema de classificação de tumores cerebrais em imagens de ressonância magnética
+🌐 **DEMONSTRAÇÃO ONLINE**
+
+[Acessar Neuro-Detec](https://remix-neuro-detec-sistema-de-avalia-o-m-dica-por-8044.ai.studio)
+
 
 ### Introdução
 
