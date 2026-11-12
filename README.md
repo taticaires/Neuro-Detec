@@ -11,3 +11,22 @@ Nesse contexto, o Neuro Detec propõe o desenvolvimento de um sistema capaz de c
 Para o desenvolvimento do sistema, será utilizado um conjunto de imagens de ressonância magnética cerebral disponibilizado publicamente, contendo exemplos das categorias selecionadas. A partir dessas imagens, serão realizadas as etapas necessárias de preparação, processamento e classificação, de acordo com as técnicas que forem definidas ao longo do desenvolvimento do projeto.
 
 O Neuro Detec tem como objetivo investigar a aplicação de técnicas computacionais na classificação de imagens de ressonância magnética cerebral, avaliando a capacidade do sistema de diferenciar os três tipos de tumores propostos e seu desempenho por meio de métricas de classificação.
+
+
+## Fonte dos dados
+
+As imagens de ressonância magnética utilizadas
+nos exemplos deste projeto são provenientes do:
+
+Brain Tumor MRI Dataset
+Autor: Masoud Nickparvar
+Disponível em:
+https://huggingface.co/datasets/BJyotibrat/Masoud-Nickparvar-Brain-Tumor-MRI-Dataset
+
+Licença: Creative Commons Attribution 4.0 (CC BY 4.0).
+
+Os dados são utilizados exclusivamente para fins
+acadêmicos, educacionais e de pesquisa.
+
+O sistema é experimental e não substitui
+avaliação ou diagnóstico médico profissional.

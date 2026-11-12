@@ -1,0 +1,8 @@
+{
+  "name": "Remix Neuro-Detec - Sistema de Avaliação Médica por Imagem Cerebral",
+  "description": "Plataforma clínica para auxílio no diagnóstico de ressonâncias magnéticas cerebrais, classificação de tumores e anomalias neurológicas com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
